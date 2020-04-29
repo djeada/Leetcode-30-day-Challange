@@ -51,5 +51,36 @@ All the solutions to Leecode 30 day Challange problems.
 <td><a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/" rel="nofollow">Middle of the Linked List</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Middle%20of%20the%20Linked%20List.py">Python</a></td>
 </tr>
+<td>9</td>
+<td><a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3291/" rel="nofollow"> Backspace String Compare</a></td>
+<td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Backspace%20String%20Compare.py">Python</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/" rel="nofollow">Min Stack</a></td>
+<td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Min%20Stack.py">Python</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3293/" rel="nofollow">Diameter of Binary Tree</a></td>
+<td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/%20Diameter%20of%20Binary%20Tree.py">Python</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3297/" rel="nofollow">Last Stone Weight </a></td>
+<td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Last%20Stone%20Weight.py">Python</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3298/" rel="nofollow">Contiguous Array</a></td>
+<td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/%20Contiguous%20Array.py">Python</a></td>
+</<tr>
+<td>14</td>
+<td><a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/" rel="nofollow">Perform String Shifts</a></td>
+<td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Perform%20String%20Shifts.py">Python</a></td>
+</tr>tr>
+  
+  
+  
 </tbody>
 </table>
