@@ -74,11 +74,12 @@ All the solutions to Leecode 30 day Challange problems.
 <td>13</td>
 <td><a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3298/" rel="nofollow">Contiguous Array</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/%20Contiguous%20Array.py">Python</a></td>
-</<tr>
+</tr>
+<tr>
 <td>14</td>
 <td><a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/" rel="nofollow">Perform String Shifts</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Perform%20String%20Shifts.py">Python</a></td>
-</tr>tr>
+</tr>
   
   
   
